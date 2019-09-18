@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    /*theme colors*/
+    <color name="darkgreenblue">#256d70</color>
+    <color name="greenblue">#45b7b0</color>
+    <color name="red">#d84b57</color>
+    <color name="offwhite">#f0f2d2</color>
+    <color name="lightgreen">#adeab0</color>
+    <color name="white">#ffffff</color>
+
+</resources>
+
+    /*old brighter greenblue
+<color name="greenblue">#4ecdc4</color>
+    */
